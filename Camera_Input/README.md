@@ -1,5 +1,6 @@
 # Overview
-Taking input from camera can be very helpful in object detection, face recog., etc. 
+Taking input from camera can be very helpful in object detection and other things.
 
-Showing how to take input from camera using python
-Applying certain operations on it and giving the output
+# Camera_Input:
+- Shows how to take input from camera ( default, external, IP cam )
+- Adding output to Tkinter Window for GUI development purposes.

@@ -4,7 +4,7 @@
 In today's world, Image processing is everywhere and in the future everything will be dependent on it only. 
 <br/> In this repo, I have demonstrated some of the basics of PIP (Python Image Processing) such as 
 - opening images using various modules in python 
-- saving  images 
+- saving images 
 - Performing various operations on images
 - Taking input directly from camera of PC
 - Displaying the camera’s video in Tkinter Window 
@@ -25,15 +25,15 @@ In today's world, Image processing is everywhere and in the future everything wi
 # Description of added directories:
 
 ## Camera_Input:
-- shows how to take input from camera ( default, external, IP cam)
-- Adding output to Tkinter Window for GUi development  purposes
+- shows how to take input from camera (default, external, IP cam)
+- Adding output to Tkinter Window for GUI development purposes
 
 ## Operations: 
   - Shows various types of operations like:
     - Resizing image 
     - Cropping image 
-    - Brightness image 
-    - Contrast image 
+    - Changing Brightness of image 
+    - Changing Contrast of image 
     - Rotating Image 
     - Image Thresholding
     - Replacing Pixels in image

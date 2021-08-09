@@ -12,6 +12,9 @@ In today's world, Image processing is everywhere and in the future everything wi
 # Tools and Technologies used:
 - Python 3.8 
 - Jupyter Notebook
+- Spyder IDE
+- Sublime 3 IDE
+- Notepad++
 
 # Python Libraries and Modules used:
 - OpenCV (CV2)
@@ -21,6 +24,8 @@ In today's world, Image processing is everywhere and in the future everything wi
 - Numpy 
 - Skimage 
 - PIL 
+- Tensorflow 2.0 (cpu)
+- Keras (now included with tensorflow)
 
 # Description of added directories:
 
@@ -44,5 +49,10 @@ In today's world, Image processing is everywhere and in the future everything wi
 ## Opening Images:
 - Shows how to open images in python
 - saving images 
+
+## Image_Augmentation:
+- Image augmentation is a technique that is used to artificially expand the data-set.
+- This is helpful when we are given a data-set with very few data samples
+- In this case I have used Keras to achieve image augmentation.
 
 # Thank you
